@@ -20,7 +20,7 @@ I'm Michał, a software engineer based in Poland and thrid year Computer Science
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Interests
+## Interests
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900.svg?style=for-the-badge)
 ![Android development](https://img.shields.io/badge/Machine%20Learning-FF9900.svg?style=for-the-badge)
 
